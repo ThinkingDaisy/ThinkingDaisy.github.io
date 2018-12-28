@@ -14,11 +14,11 @@
     padding: 0 0 0 30px;
 }
 .contact-style .phone-img a{
-    background-image: url('../imgs/img/phone.png');
+    background-image: url('../img/phone.png');
 }
 .contact-style .mail-img a{
-    background-image: url('../imgs/img/mail.png');
+    background-image: url('../img/mail.png');
 }
 .contact-style .net-img a{
-    background-image: url('../imgs/img/twitter.png')
+    background-image: url('../img/twitter.png')
 }
